@@ -73,8 +73,8 @@ classification_report1
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1!,85]]
 
 ~~~
-## Output:
 
+## Output:
 ## HEAD:
 ![1](https://user-images.githubusercontent.com/95342910/171147138-d5aad3ed-beff-42ab-9695-5a1ee5807ee1.png)
 
