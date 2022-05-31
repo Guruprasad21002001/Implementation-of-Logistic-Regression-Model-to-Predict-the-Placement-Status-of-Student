@@ -23,7 +23,7 @@ Developed by:GURUPRASAD.B
 RegisterNumber:21221230032
 */
 ```
-~~~~
+~~~
 import pandas as pd
 data = pd.read_csv("Placement_Data.csv")
 data.head()
